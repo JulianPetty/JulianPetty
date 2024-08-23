@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @JulianPetty
-- 👀 I’m interested in Computer Science Ethics
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on beginner projects
+- 👀 I’m interested in Front-End Development
+- 🌱 I’m currently learning React/NextJS
 - 📫 How to reach me: julianpetty02@gmail.com
 
 <!---
