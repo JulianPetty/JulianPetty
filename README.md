@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @JulianPetty
-- 👀 I’m interested in Front-End Development
-- 🌱 I’m currently learning React/NextJS
-- 📫 How to reach me: julianpetty02@gmail.com
+Currently working on ML engines for backtesting futures trading strategies.
+
+Testing new AI models.
+
+Remaining unemployed as long as possible.
+
 
 <!---
 JulianPetty/JulianPetty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
