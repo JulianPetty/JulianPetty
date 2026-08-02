@@ -2,7 +2,7 @@ Currently working on ML engines for backtesting futures trading strategies.
 
 Testing new AI models.
 
-Remaining unemployed as long as possible.
+Interested in multilayer agentic research systems addressing important issues (agriculture, medicine, culture, etc.)
 
 
 <!---
